@@ -1,5 +1,5 @@
 
-# Hi, I'm Md Fuad Fahimul Haque 👋
+# Hi, I'm Fuad Fahimul Haque 👋
 
 ### Electrical & Electronic Engineering Graduate | RMIT University
 
