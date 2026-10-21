@@ -1,5 +1,5 @@
 
-# Hi, I'm Fuad Fahimul Haque 👋
+# Hi, I'm Fuad Fahimul Haque
 
 ### Electrical & Electronic Engineering Graduate | RMIT University
 
@@ -9,9 +9,9 @@ My technical interests include power systems, industrial automation, telecommuni
 
 I enjoy working on practical engineering problems and using software, simulation and programming to develop and analyse engineering solutions.
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
-### 🛰️ Satellite Constellation Design and Link Performance
+### Satellite Constellation Design and Link Performance
 [View Project on GitHub](https://github.com/niloyfuad12-alt/Satellite-Constellation-Link-Performance)
 
 - Modelled a 144-satellite Walker-Star LEO constellation using MATLAB.
@@ -19,7 +19,7 @@ I enjoy working on practical engineering problems and using software, simulation
 - Performed link-budget calculations and theoretical BER comparisons.
 - **Tools:** MATLAB, Satellite Communications Toolbox
 
-### ♻️ Smart Waste Bin – IoT
+### Smart Waste Bin – IoT
 [View Project on GitHub](https://github.com/niloyfuad12-alt/Smart-Waste-Bin-IoT)
 
 - Developed a touchless smart waste bin as part of a university team project.
@@ -27,7 +27,7 @@ I enjoy working on practical engineering problems and using software, simulation
 - Implemented LCD status monitoring and IoT connectivity using Blynk.
 - **Tools:** Arduino IDE, Proteus, ESP32, Blynk
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Power Systems:** DIgSILENT PowerFactory, MATLAB, Simulink
 
@@ -43,7 +43,7 @@ I enjoy working on practical engineering problems and using software, simulation
 
 **Documentation:** Microsoft Excel, Word, PowerPoint
 
-## 💼 Industry Experience
+## Industry Experience
 
 ### Engineering Intern — Robi Axiata Limited
 **Technology Division | 2023**
@@ -53,7 +53,7 @@ I enjoy working on practical engineering problems and using software, simulation
 - Monitored integration progress and maintained project trackers.
 - Coordinated with technical teams and service providers.
 
-## 🎓 Education
+## Education
 
 **Master of Engineering (Electrical and Electronic Engineering)**  
 RMIT University, Australia | 2026
@@ -61,13 +61,13 @@ RMIT University, Australia | 2026
 **Bachelor of Science in Electrical and Electronic Engineering**  
 BRAC University, Bangladesh | 2023
 
-## 🌐 Engineering Portfolio
+## Engineering Portfolio
 
 I document my university engineering projects, technical analysis and learning experiences on my blog.
 
 [Visit My Engineering Blog](https://projectffh.blogspot.com/)
 
-## 📫 Connect
+## Connect
 
 I'm interested in graduate engineering opportunities in power systems, automation, telecommunications and related technical fields.
 
