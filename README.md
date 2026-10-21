@@ -65,7 +65,8 @@ BRAC University, Bangladesh | 2023
 
 I document my university engineering projects, technical analysis and learning experiences on my blog.
 
-[Visit My Engineering Blog](https://projectffh.blogspot.com/)
+[Visit My Engineering Blog](https://ffhproject.blogspot.com/?m=1)
+
 
 ## Connect
 
