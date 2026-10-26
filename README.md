@@ -1,7 +1,7 @@
 
 # Hi, I'm Fuad Fahimul Haque
 
-### Electrical & Electronic Engineering Graduate | RMIT University
+### Electrical & Electronic Engineering | RMIT University
 
 I'm an Electrical and Electronic Engineering graduate based in Melbourne, Australia. I completed my Master of Engineering (Electrical and Electronic Engineering) at RMIT University and my bachelor's degree at BRAC University.
 
